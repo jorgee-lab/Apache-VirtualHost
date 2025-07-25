@@ -1,4 +1,4 @@
-# Implementación de sitios Web con VirtualHost en Apac
+# Implementación de sitios Web con VirtualHost en Apache
 
 Scripts automatizados para la implementación de sitios web utilizando apache en Rocky Linux 9.
 
