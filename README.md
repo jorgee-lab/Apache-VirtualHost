@@ -4,7 +4,7 @@ Scripts automatizados para la implementación de sitios web utilizando apache en
 
 Se implementan 2 sitios web de prueba en el servidor que sirven para realizar pruebas de conceptos.
 
-## 🧱 Arquitectura
+## Arquitectura
 
 - Sistema operativo: Rocky Linux 9 (Aplica para RHEL y CentOS 9)
 - Servicios utilizados: Apache (httpd).
@@ -12,14 +12,14 @@ Se implementan 2 sitios web de prueba en el servidor que sirven para realizar pr
 - Entorno: Pruebas
 
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
 - Script automatizado de implementación de servicio.
 - Automatización de despliegues de servicios.
 - Versionado con Git
 
 
-## 📌 Cómo usar
+## Cómo usar
 
 1. Clonar el repositorio:
 `git clone https://github.com/jorgee-lab/Apache-VirtualHost.git`
