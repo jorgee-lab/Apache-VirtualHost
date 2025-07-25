@@ -8,13 +8,13 @@ Se implementan 2 sitios web de prueba en el servidor que sirven para realizar pr
 
 - Sistema operativo: Rocky Linux 9 (Aplica para RHEL y CentOS 9)
 - Servicios utilizados: Apache (httpd).
-- Herramientas: TScript de Linux
-- Entornos: Pruebas
+- Herramientas: Script de Linux
+- Entorno: Pruebas
 
 
 ## 🚀 Funcionalidades principales
 
-- Script automatizado
+- Script automatizado de implementación de servicio.
 - Automatización de despliegues de servicios.
 - Versionado con Git
 
